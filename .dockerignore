@@ -1,0 +1,7 @@
+README.md
+/src/lib/images.ts
+**/node_modules/
+**/.next/
+**/public/pics
+.git
+.env
